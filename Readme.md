@@ -4,3 +4,4 @@
  El archivo .aia permite entrar en la página de Appinventor (http://appinventor.mit.edu) y seguir editando la app. 
  El archivo .apk permite instalarla en dispositivos android
  
+ Saludos desde Buenos Aires
